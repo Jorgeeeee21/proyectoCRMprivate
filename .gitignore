@@ -3,23 +3,5 @@
 Thumbs.db
 *.log
 
-### IDEs
-.idea/
-.vscode/
-
-### Backend (Spring Boot)
-Proyecto_CRM_Backend/target/
-Proyecto_CRM_Backend/.mvn/wrapper/maven-wrapper.jar
-Proyecto_CRM_Backend/.mvn/wrapper/maven-wrapper.properties
-Proyecto_CRM_Backend/.classpath
-Proyecto_CRM_Backend/.project
-Proyecto_CRM_Backend/.settings/
-
-### Frontend (Angular)
-Proyecto_CRM_Frontend/node_modules/
-Proyecto_CRM_Frontend/.angular/
-Proyecto_CRM_Frontend/dist/
-Proyecto_CRM_Frontend/.eslintcache
-Proyecto_CRM_Frontend/.next/
 
 
